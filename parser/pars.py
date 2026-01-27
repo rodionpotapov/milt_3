@@ -2,7 +2,6 @@ class SyntaxErrorMLITA(Exception):
     """Синтаксическая ошибка."""
     pass
 
-
 def parse(s: str, trace: bool = False) -> None:
     # Проверка алфавита
     for idx, ch in enumerate(s):
