@@ -2,7 +2,8 @@
 
 Запуск:
 ```bash
-python3 main.py
+cd parser
+python3 pars.py
 ```
 
 Язык:
